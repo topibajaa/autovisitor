@@ -17,7 +17,7 @@
 ```
   https://github.com/topibajaa/autovisitor.git
 ```
-4.RUN
+4. Run
 ```
   python2 av.py
 ```

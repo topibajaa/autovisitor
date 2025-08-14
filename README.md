@@ -6,16 +6,12 @@
 ## Instalasi & Menjalankan
 1. update paket
 ```
- pkg update && pkg upgrade -y
+pkg update && pkg upgrade -y
 
 ```
 2. Install Python 2
 ```
-  pkg install python2 git -y
-
-
-
-
+pkg install python2 git -y
 ```
 4. Run
 ```

@@ -6,14 +6,18 @@
 ## Instalasi & Menjalankan
 1. update paket
 ```
-pkg update && pkg upgrade -y
+ pkg update && pkg upgrade -y
 
 ```
-2. Install Python 2
+2. Install Python2 & git
 ```
-pkg install python2 git -y
+ pkg install python2 git -y
 ```
-4. Run
+3. Clone Repo
+```
+  https://github.com/topibajaa/autovisitor.git
+```
+4.RUN
 ```
   python2 av.py
 ```

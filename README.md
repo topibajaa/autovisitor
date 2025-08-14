@@ -9,12 +9,15 @@
  pkg update && pkg upgrade -y
 
 ```
-3. Install Python 2
+2. Install Python 2
 ```
-  pkg install python2 -y
+  pkg install python2 git -y
+
+
+
 
 ```
-4. Jalankan Aplikasi
+4. Run
 ```
-  python app.py
+  python2 av.py
 ```
